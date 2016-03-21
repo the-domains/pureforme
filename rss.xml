@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pureforme ]]></title>
+        <description><![CDATA[Pureforme ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 14:26:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La forma della bellezza]]></title>
+            <description><![CDATA[<article><h1>La forma della bellezza</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c80a09b-8fa6-402b-b3c4-c18e505f9f53.png"></article>]]></description>
+            <link>undefinedla-forma-della-bellezza/index.html</link>
+            <guid isPermaLink="false">859a01d1-0de7-4d1a-8e0f-579cf2ef18c9</guid>
+            <pubDate>Mon, 21 Mar 2016 14:26:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
